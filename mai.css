@@ -1,0 +1,9 @@
+h1 { color: #F0A050; }
+
+<link rel="stylesheet" href="mystyle1.css">　<!--この行を追加 -->
+ <script src="myjs.js"></script>
+
+<!-- <script src="goodbye.js"></script>-->
+function sayhello() { 
+  alert('saygoodbye,goodbye!');
+}
